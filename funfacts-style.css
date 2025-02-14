@@ -1,6 +1,6 @@
 body{
     background-color: black;
-    background-image: url('https://preview.redd.it/f90isxkou7n71.jpg?auto=webp&s=7fcbe26273d43d00f61424e2045bff4280ced948');
+    background-image: url('assets/background.jpeg');
     background-position: -230px -50px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: white;
@@ -9,7 +9,8 @@ body{
 }
 
 .transparent-box{
-    background-color:rgba(0, 0, 0, 0.795);
+    background-color: transparent;
+    background-color:rgba(60, 60, 60, 0.4);
     width:100%;
     height:100%;
 }
