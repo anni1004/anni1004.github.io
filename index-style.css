@@ -46,6 +46,8 @@ body{
     border-radius: 50% 50%;
     height:10%;
     width:15%;
+    aspect-ratio: 1 / 1;  
+    object-fit: cover; 
     float:left;
     margin-left:15%;
 }
